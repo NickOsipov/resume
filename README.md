@@ -66,11 +66,11 @@ My progress in studiyng Data Science.
 | [ComputerScienceCenter](https://www.youtube.com/playlist?list=PLlb7e2G7aSpRb95_Wi7lZ-zA6fOjV3_l7) | Анализ данных на Python | **Completed** |
 | [Stepik](https://stepik.org/course/8057)| Машинное обучение | **Completed** |
 | [Stepik](https://stepik.org/course/57623) | Анализ данных | **Completed** |
-| [Яндекс.Практикум/Университет2035] | Аналитик данных | **Completed** |
+| [Яндекс.Практикум/Университет2035](https://practicum.yandex.ru/data-analyst/) | Аналитик данных | **Completed** |
 #### Books
 | Title | Author | Status |
 | --- | :---: | :---: |
-| Теоритический минимум по Big Data | Анналин Ын | **Completed** |
+| Теоретический минимум по Big Data | Анналин Ын | **Completed** |
 | Машинное обучение | Хенрик Бринк | **Completed** |
 | Data Science. Наука о данных с нуля | Джоэл Грас | To Do |
 | Python и машинное обучение | Себастьян Рашка | To Do |
@@ -127,6 +127,8 @@ To Do
 | [Stepik](https://stepik.org/course/91/) | Ликбез по дискретной математике | **Completed** |
 | [Stepik](https://stepik.org/course/48679) | Математическая логика и теория алгоритмов | **Completed** |
 #### Books
+| Title | Author | Status |
+| --- | :---: | :---: |
 | Конспект лекций по высшей математике | Дмитрий Письменный | **Completed** |
 
 ### Statistics & Probability theory
@@ -159,5 +161,5 @@ To Do
 | [Stepik](https://stepik.org/course/253) | Введение в архитектуру ЭВМ. Элементы операционных систем. | **Completed** |
 | [Stepik](https://stepik.org/course/191) | Безопасность в интернете | **Completed** |
 | [Stepik](https://stepik.org/course/4350) | Основы интернет-маркетинга | **Completed** |
-| [Stepik](hhttps://stepik.org/course/4598) | Логика | **Completed** |
+| [Stepik](https://stepik.org/course/4598) | Логика | **Completed** |
 | [Stepik](https://stepik.org/course/6667) | Философия | **Completed** |
