@@ -16,7 +16,11 @@ My progress in studiyng Data Science.
 | [Stepik](https://stepik.org/course/67) | Программирование на Python | **Completed** |
 | [Stepik](https://stepik.org/course/512) | Python: основы и применение | **Completed** |
 | [Stepik](https://stepik.org/course/3356) | Практикум по математике и Python | **Completed** |
+| [Stepik](https://stepik.org/course/100707) | Курс по Python от selfedu | **Completed** |
+| [Stepik](https://stepik.org/course/63085) | Инди-курс программирования на Python от egoroff_channel | **Completed** |
 | [Квадрат](https://www.mykvadrat.ru/) | Программирование на Python | **Completed** |
+| [МФТИ](http://cs.mipt.ru/advanced_python) | Продвинутое программирование на Python | *In Progress* |
+
 #### Books
 | Title | Author | Status |
 | --- | :---: | :---: |
@@ -62,6 +66,7 @@ My progress in studiyng Data Science.
 | :---: | --- | :---: |
 | [Stepik](https://stepik.org/course/4852) | Введение в Data Science и машинное обучение | **Completed** |
 | [Coursera](https://www.coursera.org/specializations/machine-learning-data-analysis/) | Специализация Машинное обучение и анализ данных | **Completed** |
+| [Coursera](https://www.coursera.org/specializations/machine-learning-from-statistics-to-neural-networks) | Специализация Машинное обучение: от статистики до нейросетей | *In Progress* |
 | [OpenDataScience](https://mlcourse.ai/) | Open Machine Learning Course | **Completed** |
 | [ComputerScienceCenter](https://www.youtube.com/playlist?list=PLlb7e2G7aSpRb95_Wi7lZ-zA6fOjV3_l7) | Анализ данных на Python | **Completed** |
 | [Stepik](https://stepik.org/course/8057)| Машинное обучение | **Completed** |
