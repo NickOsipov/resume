@@ -120,6 +120,7 @@ To Do
 | [sql-ex](sql-ex.ru) | Задачи по SQL | 40 задач |
 | [Stepik](https://stepik.org/course/95367) | Оконные функции SQL | **Completed** |
 | [Stepik](https://stepik.org/course/551) | Введение в базы данных | **Completed** |
+| [Stepik](https://stepik.org/course/253) | Введение в архитектуру ЭВМ. Элементы операционных систем. | **Completed** |
 
 
 ## Mathematics
@@ -163,7 +164,6 @@ To Do
 | :---: | --- | :---: |
 | [Stepik](https://stepik.org/course/71759) | Введение в интернет вещей | **Completed** |
 | [Stepik](https://stepik.org/course/58678) | Введение в сетевые технологии | **Completed** |
-| [Stepik](https://stepik.org/course/253) | Введение в архитектуру ЭВМ. Элементы операционных систем. | **Completed** |
 | [Stepik](https://stepik.org/course/191) | Безопасность в интернете | **Completed** |
 | [Stepik](https://stepik.org/course/4350) | Основы интернет-маркетинга | **Completed** |
 | [Stepik](https://stepik.org/course/4598) | Логика | **Completed** |
