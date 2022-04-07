@@ -10,7 +10,7 @@ My progress in studiyng Data Science.
 ### Python
 #### Courses
 | URL                                        | Title                                                   | Status        |
-| :----------------------------------------: | ------------------------------------------------------- | :-----------: |
+| ------------------------------------------ | ------------------------------------------------------- | :-----------: |
 | [Stepik](https://stepik.org/course/58852)  | "Поколение Python": курс для начинающих от BEEGEEK      | **Completed** |
 | [Stepik](https://stepik.org/course/68343/) | "Поколение Python": курс для продвинутых от BEEGEEK     | **Completed** |
 | [Stepik](https://stepik.org/course/67)     | Программирование на Python от Институт Биоинформатики   | **Completed** |
@@ -33,7 +33,7 @@ My progress in studiyng Data Science.
 ### R
 #### Courses
 | URL                                     | Title                        | Status        |
-| :-------------------------------------: | ---------------------------- | :-----------: |
+| --------------------------------------- | ---------------------------- | :-----------: |
 | [Stepik](https://stepik.org/course/497) | Основы программирования на R | **Completed** |
 | [Stepik](https://stepik.org/course/129) | Анализ данных в R            | *In Progress* |
 | [Stepik](https://stepik.org/course/724) | Анализ данных в R. Часть 2   | To Do         |
@@ -41,7 +41,7 @@ My progress in studiyng Data Science.
 ### Scala
 #### Courses
 | URL                                       | Title                      | Status        |
-| :---------------------------------------: | -------------------------- | :-----------: |
+| ----------------------------------------- | -------------------------- | :-----------: |
 | [Stepik](https://stepik.org/course/89974) | Основы Scala               | *In Progress* |
 | [Stepik](https://stepik.org/course/16243) | Введение в Scala           | *In Progress* |
 | [Stepik](https://stepik.org/course/92864) | Scala: Продвинутый уровень | To Do         |
@@ -51,7 +51,7 @@ My progress in studiyng Data Science.
 ### Algorithms & Data Structures
 #### Courses
 | URL                                       | Title                                           | Status        |
-| :---------------------------------------: | ----------------------------------------------- | :-----------: |
+| ----------------------------------------- | ----------------------------------------------- | :-----------: |
 | [Stepik](https://stepik.org/course/217)   | Алгоритмы: теория и практика. Методы            | **Completed** |
 | [Stepik](https://stepik.org/course/1547)  | Алгоритмы: теория и практика. Структуры данных  | *In Progress* |
 | [Stepik](https://stepik.org/course/1613/) | Теоретическая информатика: сложность вычислений | To Do         |
@@ -59,13 +59,13 @@ My progress in studiyng Data Science.
 
 #### Books
 | Title             | Author          | Status        |
-| ----------------- | :-------------: | :-----------: |
+| ----------------- | --------------- | :-----------: |
 | Грокаем алгоритмы | Адитья Бхаргава | **Completed** |
 
 ### Operation Systems
 #### Courses
 | URL                                     | Title                                                     | Status        |
-| :-------------------------------------: | --------------------------------------------------------- | :-----------: |
+| --------------------------------------- | --------------------------------------------------------- | :-----------: |
 | [Stepik](https://stepik.org/course/253) | Введение в архитектуру ЭВМ. Элементы операционных систем. | **Completed** |
 | [Stepik](https://stepik.org/course/762) | Основы Linux                                              | *In Progress* |
 | [Stepik](https://stepik.org/course/73)  | Введение в Linux                                          | To Do         |
@@ -75,7 +75,7 @@ My progress in studiyng Data Science.
 ### Fundamentals
 #### Courses
 | URL                                                                                                      | Title                                                        | Status        |
-| :------------------------------------------------------------------------------------------------------: | ------------------------------------------------------------ | :-----------: |
+| -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ | :-----------: |
 | [Stepik](https://stepik.org/course/4852)                                                                 | Введение в Data Science и машинное обучение                  | **Completed** |
 | [Coursera](https://www.coursera.org/specializations/machine-learning-data-analysis/)                     | Специализация Машинное обучение и анализ данных              | **Completed** |
 | [Coursera](https://www.coursera.org/specializations/machine-learning-from-statistics-to-neural-networks) | Специализация Машинное обучение: от статистики до нейросетей | *In Progress* |
@@ -83,7 +83,7 @@ My progress in studiyng Data Science.
 | [ComputerScienceCenter](https://www.youtube.com/playlist?list=PLlb7e2G7aSpRb95_Wi7lZ-zA6fOjV3_l7)        | Анализ данных на Python                                      | **Completed** |
 | [Stepik](https://stepik.org/course/8057)                                                                 | Машинное обучение                                            | **Completed** |
 | [Stepik](https://stepik.org/course/57623)                                                                | Анализ данных                                                | **Completed** |
-| [Яндекс.Практикум/Университет2035](https://practicum.yandex.ru/data-analyst/)                            | Аналитик данных                                              | **Completed** |
+| [Я.П/Университет2035](https://practicum.yandex.ru/data-analyst/)                                         | Аналитик данных                                              | **Completed** |
 
 #### Books
 | Title                               | Author          | Status        |
@@ -96,7 +96,7 @@ My progress in studiyng Data Science.
 ### Deep Learning
 #### Courses
 | URL                                         | Title                                   | Status        |
-| :-----------------------------------------: | --------------------------------------- | :-----------: |
+| ------------------------------------------- | --------------------------------------- | :-----------: |
 | [Stepik](https://stepik.org/course/82177)   | Deep Learning School                    | **Completed** |
 | [OpenDataScience](https://dlcourse.ai/)     | Deep Learning на пальцах                | **Completed** |
 | [Stepik](https://stepik.org/course/100076)  | Введение в исскуственные нейронные сети | **Completed** |
@@ -105,22 +105,22 @@ My progress in studiyng Data Science.
 
 #### Books
 | Title                                                           | Author        | Status        |
-| --------------------------------------------------------------- | :-----------: | :-----------: |
+| --------------------------------------------------------------- | ------------- | :-----------: |
 | Грокаем глубокое обучение                                       | Эндрю Траск   | *In Progress* |
 | Глубокое обучение на Python                                     | Франсуа Шолле | *In Progress* |
 | Программируем с PyTorch: создание приложений глубокого обучения | Ян Пойнтер    | To Do         |
 
 ### Time Series
 #### Courses
-| Title                                              | Author                                           | Status        |
-| ---------------------------------------------------| :----------------------------------------------: | :-----------: |
-| [openedu](https://openedu.ru/course/urfu/METHODS/) | Методы анализа и прогнозирования временных рядов | *In Progress* |
-| [Вадим-Аббакумов](https://tinyurl.com/bdh4u35k)            | Анализ данных на Python в примерах и задачах     | *In Progress* |
+| Title                                               | Author                                           | Status        |
+| --------------------------------------------------- | ------------------------------------------------ | :-----------: |
+| [openedu](https://openedu.ru/course/urfu/METHODS/)  | Методы анализа и прогнозирования временных рядов | *In Progress* |
+| [Вадим-Аббакумов](https://tinyurl.com/bdh4u35k)     | Анализ данных на Python в примерах и задачах     | *In Progress* |
 
 ### Computer Vision
 #### Courses
-| URL | Title | Status |
-| :---------------------------------------------------: | ------------------------------------ | :-----------: |
+| URL                                                   | Title | Status |
+| ----------------------------------------------------- | ------------------------------------ | :-----------: |
 | [Stepik](https://stepik.org/course/50352)             | Нейронные сети и компьютерное зрение | **Completed** |
 | [Stepik](https://stepik.org/course/1280)              | Обработка изображений на Python      | **Completed** |
 | [ComputerScienceCenter](https://tinyurl.com/nkr3xzkb) | Анализ изображений и видео           | *In Progress* |
@@ -137,7 +137,7 @@ To Do
 ### SQL
 #### Courses
 | URL                                       | Title                         | Status        |
-| :---------------------------------------: | ----------------------------- | :-----------: |
+| ----------------------------------------- | ----------------------------- | :-----------: |
 | [Stepik](https://stepik.org/course/63054) | Интерактивный тренажер по SQL | **Completed** |
 | [sql-ex](sql-ex.ru)                       | Задачи по SQL                 | 40 задач      |
 | [Stepik](https://stepik.org/course/95367) | Оконные функции SQL           | **Completed** |
@@ -147,7 +147,7 @@ To Do
 ### Other Tools
 #### Courses
 | URL                                                                              | Title                                                | Status        |
-| :------------------------------------------------------------------------------: | ---------------------------------------------------- | :-----------: |
+| -------------------------------------------------------------------------------- | ---------------------------------------------------- | :-----------: |
 | [Coursera](https://www.coursera.org/specializations/industrial-machine-learning) | Специализация Промышленное машинное обучение         | *In Progress* |
 | [OpenDataScience](https://ods.ai/tracks/ml-in-production-spring-22)              | MLOps и production подход к ML исследованиям         | *In Progress* |
 | [Stepik](https://stepik.org/course/99527)                                        | Apache Airflow 2.0 для аналитика                     | To Do         |
@@ -159,7 +159,7 @@ To Do
 ### Linear Algebra & Discrete mathematics
 #### Courses
 | URL                                       | Title                                     | Status        |
-| :---------------------------------------: | ----------------------------------------- | :-----------: |
+| ----------------------------------------- | ----------------------------------------- | :-----------: |
 | [Stepik](https://stepik.org/course/2461)  | Линейная алгебра                          | **Completed** |
 | [Stepik](https://stepik.org/course/57167) | Минимум по линейной алгебре               | **Completed** |
 | [Stepik](https://stepik.org/course/91/)   | Ликбез по дискретной математике           | **Completed** |
@@ -167,20 +167,20 @@ To Do
 
 #### Books
 | Title                                | Author             | Status        |
-| ------------------------------------ | :----------------: | :-----------: |
+| ------------------------------------ | ------------------ | :-----------: |
 | Конспект лекций по высшей математике | Дмитрий Письменный | **Completed** |
 
 ### Statistics & Probability theory
 #### Courses
 | URL                                       | Title                      | Status        |
-| :---------------------------------------: | -------------------------- | :-----------: |
+| ----------------------------------------- | -------------------------- | :-----------: |
 | [Stepik](https://stepik.org/course/76/)   | Основы статистики          | **Completed** |
 | [Stepik](https://stepik.org/course/524/)  | Основы статистики. Часть 2 | **Completed** |
 | [Stepik](https://stepik.org/course/2152/) | Основы статистики. Часть 3 | To Do         |
 | [Stepik](https://stepik.org/course/3089/) | Теория вероятностей        | *In Progress* |
 #### Books
 | Title                                                          | Author           | Status        |
-| -------------------------------------------------------------- | :--------------: | :-----------: |
+| -------------------------------------------------------------- | ---------------- | :-----------: |
 | Теория вероятностей и математическая статистика                | Владимир Гмурман | *In Progress* |
 | Голая статистика. Самая интересная книга о самой скучной науке | Чарльз Уилан     | *In Progress* |
 
@@ -189,7 +189,7 @@ To Do
 ### Tableau
 #### Courses
 | URL                                       | Title                                         | Status        |
-| :---------------------------------------: | --------------------------------------------- | :-----------: |
+| ----------------------------------------- | --------------------------------------------- | :-----------: |
 | [Stepik](https://stepik.org/course/56280) | BI разработчик. Основы работы в Tableau       | **Completed** |
 | [Stepik](https://stepik.org/course/94450) | Tableau Профессионал                          | *In Progress* |
 | [Stepik](https://stepik.org/course/92012) | Визуализация данных и основы работы в Tableau | To Do         | 
@@ -198,7 +198,7 @@ To Do
 ## Soft Skills
 #### Courses
 | URL                                       | Title                         | Status        |
-| :---------------------------------------: | ----------------------------- | :-----------: |
+| ----------------------------------------- | ----------------------------- | :-----------: |
 | [Stepik](https://stepik.org/course/70303) | Дата-журналистика             | **Completed** |
 | [Stepik](https://stepik.org/course/71759) | Введение в интернет вещей     | **Completed** |
 | [Stepik](https://stepik.org/course/58678) | Введение в сетевые технологии | **Completed** |
