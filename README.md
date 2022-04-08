@@ -136,13 +136,14 @@ To Do
 ## Data Engineering & MLOps
 ### SQL
 #### Courses
-| URL                                       | Title                         | Status        |
-| ----------------------------------------- | ----------------------------- | :-----------: |
-| [Stepik](https://stepik.org/course/63054) | Интерактивный тренажер по SQL | **Completed** |
-| [sql-ex](sql-ex.ru)                       | Задачи по SQL                 | 40 задач      |
-| [Stepik](https://stepik.org/course/95367) | Оконные функции SQL           | **Completed** |
-| [Stepik](https://stepik.org/course/551)   | Введение в базы данных        | **Completed** |
-| [SQL-Academy](https://sql-academy.org/)   | Тренажер                      | **Completed** |
+| URL                                                  | Title                                      | Status        |
+| ---------------------------------------------------- | ------------------------------------------ | :-----------: |
+| [Stepik](https://stepik.org/course/63054)            | Интерактивный тренажер по SQL              | **Completed** |
+| [sql-ex](sql-ex.ru)                                  | Задачи по SQL                              | 40 задач      |
+| [Stepik](https://stepik.org/course/95367)            | Оконные функции SQL                        | **Completed** |
+| [Stepik](https://stepik.org/course/551)              | Введение в базы данных                     | **Completed** |
+| [SQL-Academy](https://sql-academy.org/)              | Тренажер                                   | **Completed** |
+| [Udemy](https://www.udemy.com/course/sql-with-gleb/) | SQL для Анализа Данных с Глебом Михайловым | **Completed** |
 
 ### Other Tools
 #### Courses
