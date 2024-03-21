@@ -9,18 +9,20 @@ My progress in studiyng Data Science.
 ## Programming
 ### Python
 #### Courses
-| URL                                        | Title                                                   | Status        |
-| ------------------------------------------ | ------------------------------------------------------- | :-----------: |
-| [Stepik](https://stepik.org/course/58852)  | "Поколение Python": курс для начинающих от BEEGEEK      | **Completed** |
-| [Stepik](https://stepik.org/course/68343/) | "Поколение Python": курс для продвинутых от BEEGEEK     | **Completed** |
-| [Stepik](https://stepik.org/course/67)     | Программирование на Python от Институт Биоинформатики   | **Completed** |
-| [Stepik](https://stepik.org/course/512)    | Python: основы и применение от Институт Биоинформатики  | **Completed** |
-| [Stepik](https://stepik.org/course/3356)   | Практикум по математике и Python                        | **Completed** |
-| [Stepik](https://stepik.org/course/100707) | Курс по Python от selfedu                               | **Completed** |
-| [Stepik](https://stepik.org/course/63085)  | Инди-курс программирования на Python от egoroff_channel | **Completed** |
-| [Stepik](https://stepik.org/course/110361) | Python для искусственного интеллекта от МФТИ            | **Completed** |
-| [Квадрат](https://www.mykvadrat.ru/)       | Программирование на Python                              | **Completed** |
-| [МФТИ](http://cs.mipt.ru/advanced_python)  | Продвинутое программирование на Python                  | *In Progress* |
+| URL                                        | Title                                       | Author                    | Status        |
+| ------------------------------------------ | --------------------------------------------|:------------------------: | :-----------: |
+| [Stepik](https://stepik.org/course/58852)  | "Поколение Python": курс для начинающих     | BEEGEEK                   | **Completed** |
+| [Stepik](https://stepik.org/course/68343/) | "Поколение Python": курс для продвинутых    | BEEGEEK                   | **Completed** |
+| [Stepik](https://stepik.org/course/82541/) | "Поколение Python": курс для профессионалов | BEEGEEK                   | *In Progress* |
+| [Stepik](https://stepik.org/course/98974/) | "Поколение Python": ООП                     | BEEGEEK                   | *In Progress* |
+| [Stepik](https://stepik.org/course/67)     | Программирование на Python                  | Bioinformatics Institute  | **Completed** |
+| [Stepik](https://stepik.org/course/512)    | Python: основы и применение                 | Bioinformatics Institute  | **Completed** |
+| [Stepik](https://stepik.org/course/3356)   | Практикум по математике и Python            | Алексей Задойный          | **Completed** |
+| [Stepik](https://stepik.org/course/100707) | Курс по Python                              | selfedu                   | **Completed** |
+| [Stepik](https://stepik.org/course/63085)  | Инди-курс программирования на Python        | egoroff_channel           | **Completed** |
+| [Stepik](https://stepik.org/course/110361) | Python для искусственного интеллекта        | МФТИ                      | **Completed** |
+| [Квадрат](https://www.mykvadrat.ru/)       | Программирование на Python                  | Квадрат                   | **Completed** |
+| [МФТИ](http://cs.mipt.ru/advanced_python)  | Продвинутое программирование на Python      | МФТИ                      | **Completed** |
 
 #### Books
 | Title                                  | Author        | Status        |
@@ -68,7 +70,7 @@ My progress in studiyng Data Science.
 | --------------------------------------- | --------------------------------------------------------- | :-----------: |
 | [Stepik](https://stepik.org/course/253) | Введение в архитектуру ЭВМ. Элементы операционных систем. | **Completed** |
 | [Stepik](https://stepik.org/course/762) | Основы Linux                                              | *In Progress* |
-| [Stepik](https://stepik.org/course/73)  | Введение в Linux                                          | To Do         |
+| [Stepik](https://stepik.org/course/73)  | Введение в Linux                                          | **Completed** |
 
 
 ## Machine Learning & Data Analysis
@@ -150,9 +152,10 @@ To Do
 | URL                                                                              | Title                                                | Status        |
 | -------------------------------------------------------------------------------- | ---------------------------------------------------- | :-----------: |
 | [Coursera](https://www.coursera.org/specializations/industrial-machine-learning) | Специализация Промышленное машинное обучение         | *In Progress* |
+| [Coursera](https://www.coursera.org/specializations/mlops-machine-learning-duke) | MLOps Duke University                                | *In Progress* |
 | [OpenDataScience](https://ods.ai/tracks/ml-in-production-spring-22)              | MLOps и production подход к ML исследованиям         | *In Progress* |
-| [Stepik](https://stepik.org/course/99527)                                        | Apache Airflow 2.0 для аналитика                     | To Do         |
-| [Глеб-Михайлов](https://tinyurl.com/4vrfwnnc)                                    | Docker для Data Science                              | To Do         |
+| [Stepik](https://stepik.org/course/99527)                                        | Apache Airflow 2.0 для аналитика                     | *In Progress* |
+| [Глеб-Михайлов](https://tinyurl.com/4vrfwnnc)                                    | Docker для Data Science                              | **Completed** |
 | [ВШЭ](https://github.com/NickOsipov/deployml_course)                             | Промышленная эксплуатация моделей машинного обучения | To Do         |
 
 
