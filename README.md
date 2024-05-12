@@ -8,7 +8,7 @@ My progress in studiyng Data Science.
 
 ## Programming
 ### Python
-#### Courses
+#### Small Courses
 | URL                                        | Title                                       | Author                    | Status        |
 | ------------------------------------------ | --------------------------------------------|:------------------------: | :-----------: |
 | [Stepik](https://stepik.org/course/58852)  | "Поколение Python": курс для начинающих     | BEEGEEK                   | **Completed** |
@@ -23,6 +23,7 @@ My progress in studiyng Data Science.
 | [Stepik](https://stepik.org/course/110361) | Python для искусственного интеллекта        | МФТИ                      | **Completed** |
 | [Квадрат](https://www.mykvadrat.ru/)       | Программирование на Python                  | Квадрат                   | **Completed** |
 | [МФТИ](http://cs.mipt.ru/advanced_python)  | Продвинутое программирование на Python      | МФТИ                      | **Completed** |
+
 
 #### Books
 | Title                                  | Author        | Status        |
@@ -86,6 +87,8 @@ My progress in studiyng Data Science.
 | [Stepik](https://stepik.org/course/8057)                                                                 | Машинное обучение                                            | **Completed** |
 | [Stepik](https://stepik.org/course/57623)                                                                | Анализ данных                                                | **Completed** |
 | [Я.П/Университет2035](https://practicum.yandex.ru/data-analyst/)                                         | Аналитик данных                                              | **Completed** |
+| [Karpov.Courses](https://karpov.courses/ml-start)                                                        | StartML                                                      | **Completed** |
+| [Karpov.Courses](https://karpov.courses/simulator-ab)                                                    | Симулятор A/B-тестов                                         | **Completed** |
 
 #### Books
 | Title                               | Author          | Status        |
@@ -147,17 +150,19 @@ To Do
 | [SQL-Academy](https://sql-academy.org/)              | Тренажер                                   | **Completed** |
 | [Udemy](https://www.udemy.com/course/sql-with-gleb/) | SQL для Анализа Данных с Глебом Михайловым | **Completed** |
 
-### Other Tools
+### Infrastructure
 #### Courses
 | URL                                                                              | Title                                                | Status        |
 | -------------------------------------------------------------------------------- | ---------------------------------------------------- | :-----------: |
 | [Coursera](https://www.coursera.org/specializations/industrial-machine-learning) | Специализация Промышленное машинное обучение         | *In Progress* |
 | [Coursera](https://www.coursera.org/specializations/mlops-machine-learning-duke) | MLOps Duke University                                | *In Progress* |
 | [OpenDataScience](https://ods.ai/tracks/ml-in-production-spring-22)              | MLOps и production подход к ML исследованиям         | *In Progress* |
-| [Stepik](https://stepik.org/course/99527)                                        | Apache Airflow 2.0 для аналитика                     | *In Progress* |
-| [Глеб-Михайлов](https://tinyurl.com/4vrfwnnc)                                    | Docker для Data Science                              | **Completed** |
+| [Stepik](https://stepik.org/course/99527)                                        | Apache Airflow 2.0 для аналитика                     | **Completed** |
+| [ГлебМихайлов](https://tinyurl.com/4vrfwnnc)                                     | Docker для Data Science                              | **Completed** |
 | [ВШЭ](https://github.com/NickOsipov/deployml_course)                             | Промышленная эксплуатация моделей машинного обучения | To Do         |
-
+| [Stepik](https://stepik.org/course/194442/)                                      | Kubernetes и Helm                                    | **Completed** |
+| [Karpov.Courses](https://karpov.courses/docker/)                                 | Docker                                               | **Completed** |
+| [Stepik](https://stepik.org/cert/2158659)                                        | Gitlab CI/CD                                         | **Completed** |
 
 ## Mathematics
 ### Linear Algebra & Discrete mathematics
@@ -182,6 +187,7 @@ To Do
 | [Stepik](https://stepik.org/course/524/)  | Основы статистики. Часть 2 | **Completed** |
 | [Stepik](https://stepik.org/course/2152/) | Основы статистики. Часть 3 | To Do         |
 | [Stepik](https://stepik.org/course/3089/) | Теория вероятностей        | *In Progress* |
+
 #### Books
 | Title                                                          | Author           | Status        |
 | -------------------------------------------------------------- | ---------------- | :-----------: |
