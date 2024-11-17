@@ -30,7 +30,7 @@ My progress in studiyng Data Science.
 | -------------------------------------- | ------------- | :-----------: |
 | A byte of Python                       | Swaroop       | **Completed** |
 | Как устроен Python                     | Мэтт Харрисон | **Completed** |
-| Путь Python. Черный пояс по разработке | Данжу Джульен | *In Progress* |
+| Путь Python. Черный пояс по разработке | Данжу Джульен | **Completed** |
 | Изучаем Python                         | Марк Лутц     | *In Progress* |
 
 ### R
