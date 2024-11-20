@@ -1,4 +1,4 @@
-# Nick Osipov. Resume MLOps Engineer
+# Nick Osipov. Resume: MLOps Engineer
 
 <p align="center"> 
 <img src="https://raw.githubusercontent.com/NickOsipov/resume/main/assets/mlops.gif" width="1000">
@@ -13,7 +13,7 @@ Russian version: [Resume_OsipovNO_MLOps_RU.pdf](https://github.com/NickOsipov/re
 
 ---------------------------------------------
 
-# Additional Information
+# Additional: Progress tracking
 
 ## Programming
 ### Python
