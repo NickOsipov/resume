@@ -1,10 +1,19 @@
-# Courses & Books
+# Nick Osipov. Resume MLOps Engineer
 
 <p align="center"> 
-<img src="https://raw.githubusercontent.com/NickOsipov/resume/main/back.png" width="1000">
+<img src="https://raw.githubusercontent.com/NickOsipov/resume/main/assets/mlops.gif" width="1000">
 </p>
 
-My progress in studiyng Data Science.
+## Resume 
+
+### LaTeX PDF
+
+English version: [Resume_OsipovNO_MLOps_EN.pdf](https://github.com/NickOsipov/resume/blob/main/Resume_OsipovNO_MLOps_EN.pdf)
+Russian version: [Resume_OsipovNO_MLOps_RU.pdf](https://github.com/NickOsipov/resume/blob/main/Resume_OsipovNO_MLOps_RU.pdf)
+
+---------------------------------------------
+
+# Additional Information
 
 ## Programming
 ### Python
