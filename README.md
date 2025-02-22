@@ -8,8 +8,8 @@
 
 ### LaTeX PDF
 
-English version: [Resume_NickOsipov_MLOps_EN.pdf](https://github.com/NickOsipov/resume/blob/main/Resume_OsipovNO_MLOps_EN.pdf)  
-Russian version: [Resume_NickOsipov_MLOps_RU.pdf](https://github.com/NickOsipov/resume/blob/main/Resume_OsipovNO_MLOps_RU.pdf)
+English version: [Resume_NickOsipov_MLOps_EN.pdf](https://github.com/NickOsipov/resume/blob/main/Resume_NickOsipov_MLOps_EN.pdf)  
+Russian version: [Resume_NickOsipov_MLOps_RU.pdf](https://github.com/NickOsipov/resume/blob/main/Resume_NickOsipov_MLOps_RU.pdf)
 
 ---------------------------------------------
 
