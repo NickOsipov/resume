@@ -156,3 +156,8 @@
     \parindent -0.7cm
     {#1}\vspace{3pt}
 }
+
+\input{glyphtounicode}
+\renewcommand{\normalsize}{\fontsize{12pt}{14.4pt}\selectfont}
+\normalsize
+
