@@ -1,0 +1,2 @@
+# Python dependencies for resume build system
+invoke==2.2.1
