@@ -157,7 +157,7 @@ class HTMLGenerator:
 
         body {
             font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            background: linear-gradient(135deg, #0f0c29 0%, #302b63 50%, #24243e 100%);
             min-height: 100vh;
             display: flex;
             justify-content: center;
@@ -188,7 +188,7 @@ class HTMLGenerator:
         }
 
         .header {
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            background: linear-gradient(135deg, #0f0c29 0%, #302b63 50%, #24243e 100%);
             color: white;
             padding: 60px 40px;
             text-align: center;
@@ -216,7 +216,7 @@ class HTMLGenerator:
 
         .section h3 {
             font-size: 1.3rem;
-            color: #667eea;
+            color: #8b7dff;
             margin-bottom: 20px;
             text-align: center;
             text-transform: uppercase;
@@ -245,13 +245,15 @@ class HTMLGenerator:
         }
 
         .btn-english {
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            background: linear-gradient(135deg, #434343 0%, #000000 100%);
             color: white;
+            border: 2px solid #8b7dff;
         }
 
         .btn-russian {
-            background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
+            background: linear-gradient(135deg, #434343 0%, #000000 100%);
             color: white;
+            border: 2px solid #c77dff;
         }
 
         .btn:hover {
@@ -280,14 +282,14 @@ class HTMLGenerator:
             padding: 12px 25px;
             text-decoration: none;
             color: #333;
-            border: 2px solid #667eea;
+            border: 2px solid #8b7dff;
             border-radius: 50px;
             transition: all 0.3s ease;
             font-weight: 500;
         }
 
         .social-link:hover {
-            background: #667eea;
+            background: #8b7dff;
             color: white;
             transform: translateY(-2px);
         }
@@ -312,7 +314,7 @@ class HTMLGenerator:
             padding: 25px;
             background: #f8f9fa;
             border-radius: 10px;
-            border-left: 4px solid #667eea;
+            border-left: 4px solid #8b7dff;
         }
 
         .experience-header {
@@ -322,7 +324,7 @@ class HTMLGenerator:
         .company {
             font-size: 1.3rem;
             font-weight: 700;
-            color: #667eea;
+            color: #8b7dff;
             text-decoration: none;
         }
 
@@ -373,7 +375,7 @@ class HTMLGenerator:
 
         .skill-category-name {
             font-weight: 700;
-            color: #667eea;
+            color: #8b7dff;
             margin-bottom: 8px;
         }
 
