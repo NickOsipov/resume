@@ -521,7 +521,7 @@ class HTMLGenerator:
         </p>
         <p style="margin-top: 15px;">
             Experienced in leading teams, mentoring engineers, and designing scalable
-            ML infrastructure for CTR prediction, anti-fraud systems, and various ML applications.
+            ML infrastructure.
         </p>'''
 
         return about
