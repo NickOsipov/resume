@@ -1,5 +1,5 @@
-RESUME_RU_PDF=Resume_NickOsipov_MLOps_RU.pdf
-RESUME_EN_PDF=Resume_NickOsipov_MLOps_EN.pdf
+RESUME_RU_PDF=pdf/Resume_NickOsipov_MLOps_RU.pdf
+RESUME_EN_PDF=pdf/Resume_NickOsipov_MLOps_EN.pdf
 INDEX_HTML=index.html
 
 copy-ru:
