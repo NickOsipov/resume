@@ -12,7 +12,7 @@ copy-all: copy-ru copy-en
 
 # Build HTML site from LaTeX source
 build-site:
-	python3 build_site.py
+	python3 scripts/build_site.py
 
 # Build everything: PDFs and HTML site
 build-all: copy-all build-site

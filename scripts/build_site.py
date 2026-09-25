@@ -582,7 +582,7 @@ class HTMLGenerator:
         """Generate footer section."""
         header = self.data.get('header', {})
         return f'''<div class="footer">
-            <p>&copy; 2026 {header.get('name', 'Nick Osipov')}. Python Engineer | MLOps Specialist</p>
+            <p>&copy; 2026 {header.get('name', 'Nick Osipov')}. MLOps Engineer</p>
             <p>Machine Learning Operations & Data Engineering</p>
         </div>'''
 
